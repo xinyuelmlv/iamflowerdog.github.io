@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      使用Jekyll和Bootstrap，创建一个静态网站
-author:     王士江
+author:     杨勇海
 date:       2016-05-26 08:13:00 +0800
 categories: notes
 tags:       Bootstrap Jekyll
@@ -63,7 +63,7 @@ YEAR-MONTH-DAY-title.MARKUP
 
 所有博客文章顶部必须有一段[YAML头信息](http://jekyll.bootcss.com/docs/frontmatter/)(YAML front- matter)。
 在它下面，就可以选择你喜欢的格式来写文章。Jekyll支持2种流行的标记语言格式：
-[Markdown](http://daringfireball.net/projects/markdown/) 和 [Textile](http://textile.sitemonks.com/)。 
+[Markdown](http://daringfireball.net/projects/markdown/) 和 [Textile](http://textile.sitemonks.com/)。
 
 正是头信息开始让 Jekyll 变的很酷。任何只要包含 [YAML](http://yaml.org/) 头信息的文件在 Jekyll 中都能被当做一个特殊的文件来处理。
 头信息必须在文件的开始部分，并且需要按照 YAML 的格式写在两行三虚线之间。下面是一个基本的例子：
