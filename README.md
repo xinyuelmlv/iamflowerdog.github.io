@@ -1,3 +1,3 @@
 ## WongJohn Blog Page
 
-See the result at: http://wongjohn.github.io/
+See the result at: http://iamflowerdog.github.io/
